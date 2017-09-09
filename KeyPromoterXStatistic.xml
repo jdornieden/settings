@@ -1,11 +1,27 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'⌥⌘L'</ShortCut>
+          <Description>Reformat Code</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'REPL for clojure-noob'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'REPL for clojure-noob'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Reformat File Dialog">
+        <Item>
+          <IdeaActionID>ShowReformatFileDialog</IdeaActionID>
+          <ShortCut>'⌥⇧⌘L'</ShortCut>
+          <Description>Show Reformat File Dialog</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
