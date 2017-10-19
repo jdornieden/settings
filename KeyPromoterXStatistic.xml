@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Load file in REPL">
+        <Item>
+          <IdeaActionID>:cursive.repl.actions/load-file</IdeaActionID>
+          <ShortCut>'⇧⌘L'</ShortCut>
+          <Description>Load file in REPL</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Module Settings">
         <Item>
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
@@ -86,7 +94,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'REPL for gift-shuffle'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'REPL for pegthing'">
