@@ -46,7 +46,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -270,6 +270,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'test-proj.core-test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Select In...">
+        <Item>
+          <IdeaActionID>SelectIn</IdeaActionID>
+          <ShortCut>'⌥F1'</ShortCut>
+          <Description>Select In...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
